@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Stroke is a leading cause of death and disability around the world. Of the nearly 800,000 individuals who suffer from stroke per year in the United States, close to 80% of survivors experience full or partial impairment of contralesional limbs. In an attempt to restore function to these weakened parts of the body, patients will undergo intense physical and occupational therapy for several months. In the first six months immediately following the stroke, the survivor experiences a period of increased neuroplasticity, where the nervous system has the ability to reorganize its connections. Therefore it is crucial to maximize the effectiveness of rehabilitation during this time, so that intact redundant connectivity of the central nervous system can be strengthened, and the formation of new neural circuits is encouraged.\nInertial measurement units (IMUs) have begun gaining traction as a way to monitor the movement of stroke patients as they undergo rehabilitation. However, most of these efforts have been put toward measuring quantity of movement, for example, the ratio of total movements between the affected and unaffected limb. I am attempting to use machine learning techniques to assess the quality of movement as well, with hopes to inform the rehailbitation process and improve patient outcomes."
+  },
+  {
+    "objectID": "research/index.html#wearables-ml-for-stroke-rehabilitation",
+    "href": "research/index.html#wearables-ml-for-stroke-rehabilitation",
+    "title": "Research",
+    "section": "",
+    "text": "Stroke is a leading cause of death and disability around the world. Of the nearly 800,000 individuals who suffer from stroke per year in the United States, close to 80% of survivors experience full or partial impairment of contralesional limbs. In an attempt to restore function to these weakened parts of the body, patients will undergo intense physical and occupational therapy for several months. In the first six months immediately following the stroke, the survivor experiences a period of increased neuroplasticity, where the nervous system has the ability to reorganize its connections. Therefore it is crucial to maximize the effectiveness of rehabilitation during this time, so that intact redundant connectivity of the central nervous system can be strengthened, and the formation of new neural circuits is encouraged.\nInertial measurement units (IMUs) have begun gaining traction as a way to monitor the movement of stroke patients as they undergo rehabilitation. However, most of these efforts have been put toward measuring quantity of movement, for example, the ratio of total movements between the affected and unaffected limb. I am attempting to use machine learning techniques to assess the quality of movement as well, with hopes to inform the rehailbitation process and improve patient outcomes."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nAbout Me\nI am Nicholas Nazak, a PhD student at Case Western Reserve University studying Biomedical Engineering. My current research entails leveraging wearable devices to aid in stroke rehabilitation with Dr. Chris Pulliam.\n\n\nEducation\nB.S. in Biomedical Engineering, Case Western Reserve University, Cleveland, Ohio (2022)\n\n\nProfessional Experience\nProject Manager at Rahm Sensor Development, Inc. (Current)\nOperations Manager at VetGuardian (2021 - 2023)\n\n\nGet in touch!\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "interests/index.html",
+    "href": "interests/index.html",
+    "title": "Interests",
+    "section": "",
+    "text": "Drumming\nI’ve been an avid drummer for over 15 years now! I began taking jazz drum lessons in late middle school. Although now I mainly play in jazz ensembles and combos (see below!), I love playing all sorts of genres, including rock, funk, fusion, and more.\n\n\n\nVolleyball\nVolleyball has been my favorite sport since I was young. In my undergraduate years, I was the president of CWRU Club Volleyball, leading the team as the setter to a national championship. Now, I play in leagues and tournaments in the Cleveland area!"
+  }
+]
