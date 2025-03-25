@@ -1,0 +1,14 @@
+# options specified here will apply to all posts in this folder
+author:
+  - name: Nicholas Nazak
+    url: https://github.com/NNazak
+categories: [Reflection] # self-defined categories
+image: NCNII.png
+# citation: 
+#   url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
+
+# re-render posts only when a change to the source file is made ----
+freeze: auto
+
+# enable banner style title blocks ----
+title-block-banner: true

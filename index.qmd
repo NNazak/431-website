@@ -1,0 +1,38 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/headshot_nick.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/NNazak
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nicholas-nazak-6702051a7/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.ncn13@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# About Me
+
+I am Nicholas Nazak, a PhD student at Case Western Reserve University studying Biomedical Engineering. My current research entails leveraging wearable devices to aid in stroke rehabilitation with [Dr. Chris Pulliam](https://case.edu/bme/people/primary-faculty/christopher-pulliam). 
+
+# Education
+B.S. in Biomedical Engineering, Case Western Reserve University, Cleveland, Ohio (2022)
+
+# Professional Experience
+Project Manager at [Rahm Sensor Development, Inc.](https://www.rahmsd.com/) (Current)
+
+Operations Manager at [VetGuardian](https://zom-dx.zomedica.com/Products/vetguardian/) (2020 - 2023)
+
+# Get in touch!
+
+Please feel free to [contact me](mailto:mail.ncn13@case.edu.) if you have any questions or would like to discuss potential projects.
+
+
+
